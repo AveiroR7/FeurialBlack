@@ -1,5 +1,5 @@
-### Hi there 👋
-🔭 I’m currently working on ...
+### Hi,I'm Rahul Wasnik 👋
+### 🔭 I’m into Datascience and Machine Learning ...
 <!--
 **FeurialBlack/FeurialBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
