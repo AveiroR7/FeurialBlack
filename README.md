@@ -5,7 +5,7 @@
 
 
 
-**I'm into,
+**I'm into,**
 <br/>
 **Machine Learning, Data Science, Mobile Application Development, Cloud Computing, and Linux**
 
