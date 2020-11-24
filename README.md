@@ -3,7 +3,7 @@
 
 **I'm into,**
 <br/>
-**Machine Learning, Data Science, Mobile Application Development, Cloud Computing, and Linux**
+**Machine Learning, Data Science, Cloud Computing, and Linux**
 
 <br/>
 <a href="https://github.com/FeurialBlack">
