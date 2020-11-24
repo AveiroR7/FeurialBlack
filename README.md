@@ -1,14 +1,11 @@
 <h2>Hey!, I'm Rahul Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <br/>
-<a href="https://github.com/FeurialBlack">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
-</a>
 <br/>
 <br/>
 
 
 
-**I am Into ,
+**I'm into,
 <br/>
 **Machine Learning, Data Science, Mobile Application Development, Cloud Computing, and Linux**
 
