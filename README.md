@@ -8,7 +8,7 @@
 
 
 
-**I am Into , 🙏**
+**I am Into ,
 <br/>
 **Machine Learning, Data Science, Mobile Application Development, Cloud Computing, and Linux**
 
