@@ -3,7 +3,7 @@
 
 **I'm into,**
 <br/>
-** Competitive Programming, Machine Learning, Data Science, Cloud Computing, Ethical Hacking, Web Development and Linux**
+**Competitive Programming, Machine Learning, Data Science, Cloud Computing, Ethical Hacking, Web Development and Linux**
 
 <br/>
 <a href="https://github.com/FeurialBlack">
