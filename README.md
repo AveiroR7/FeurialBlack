@@ -7,11 +7,11 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)]
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)]
-[![R](https://img.shields.io/badge/-R-fff?&logo=R&logoColor=ddc508)]
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+[![R](https://img.shields.io/badge/-R-fff?&logo=R&logoColor=ddc508)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
 
