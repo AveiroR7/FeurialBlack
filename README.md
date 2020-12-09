@@ -1,4 +1,4 @@
-<h2>Hey!, I'm Rahul Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey!, I'm Rahul Wasnik!</h2>
 <br/>
 
 **I'm into,**
@@ -8,7 +8,7 @@
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![R](https://img.shields.io/badge/-R-fff?&logo=R&logoColor=ddc508)](https://github.com/FeurialBlack?tab=repositories&q=&type=&language=R)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
