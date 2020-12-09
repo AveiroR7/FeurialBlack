@@ -30,8 +30,8 @@
 
 ### Machine Learning Projects
 
-![Linear Regression] (https://github.com/FeurialBlack/Braintester)
-![Exploratory Data Analysis] (https://github.com/FeurialBlack/Retailer)
+[![Linear Regression](https://github.com/FeurialBlack/Braintester)]
+[![Exploratory Data Analysis](https://github.com/FeurialBlack/Retailer)]
 
 
 ***********************************
