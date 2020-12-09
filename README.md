@@ -7,14 +7,13 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![R](https://img.shields.io/badge/-R-fff?&logo=R&logoColor=ddc508)](https://github.com/FeurialBlack?tab=repositories&q=&type=&language=R)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)]
+![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)]
+[![R](https://img.shields.io/badge/-R-fff?&logo=R&logoColor=ddc508)]
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)
+
 
 ### Technologies
 
