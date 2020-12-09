@@ -28,14 +28,11 @@
 
 ***********************************
 
-### Cybersecurity projects
+### Machine learning projects
 
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20&%20Meltdown-fff?)](https://github.com/adamalston/Meltdown-Spectre)
-[![Heartbleed](https://img.shields.io/badge/-🩸%20Heartbleed-fff?)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-fff?)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20&%20Spoofing-fff?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-fff?)](https://github.com/adamalston/SQL-Injection)
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-fff?)](https://github.com/adamalston/Network-Tools)
+[![Linear Regression](https://img.shields.io/badge/-🛡%20Spectre%20&%20Meltdown-fff?)](https://github.com/adamalston/Braintester)
+[![Exploratory Data Analysis](https://img.shields.io/badge/-🩸%20Heartbleed-fff?)](https://github.com/adamalston/)
+
 
 ***********************************
 
