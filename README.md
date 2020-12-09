@@ -30,8 +30,8 @@
 
 ### Machine learning projects
 
-[![Linear Regression](https://img.shields.io/badge/-🛡%20Spectre%20&%20Meltdown-fff?)](https://github.com/FeurialBlack/Braintester)
-[![Exploratory Data Analysis](https://img.shields.io/badge/-🩸%20Heartbleed-fff?)](https://github.com/FeurialBlack/Retailer)
+![Linear Regression](https://github.com/FeurialBlack/Braintester)
+![Exploratory Data Analysis](https://github.com/FeurialBlack/Retailer)
 
 
 ***********************************
