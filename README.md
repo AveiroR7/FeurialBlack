@@ -1,4 +1,9 @@
-[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.adamalston.com/)
+<h2>Hey!, I'm Rahul Wasnik! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<br/>
+
+**I'm into,**
+<br/>
+**Competitive Programming, Machine Learning, Data Science**
 
 ### Languages
 
