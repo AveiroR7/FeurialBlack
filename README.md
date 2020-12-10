@@ -22,7 +22,7 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![GCP](https://img.shields.io/badge/-gcp-fff?&logo=gcp&logoColor=000)
+![GCP](https://img.shields.io/badge/-GCP-fff?&logo=GCP&logoColor=000)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
