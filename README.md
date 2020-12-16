@@ -2,24 +2,15 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+<a href="https://www.linkedin.com/in/Feurialblack/">
+  <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=feurialblack.feurialblack)
 
 <br />
 
-Hi, I'm [Abhishek Naidu!]  
+Hi, I'm Rahul Wasnik  
   
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
@@ -37,8 +28,8 @@ Hi, I'm [Abhishek Naidu!]
 ```text
 C            37 mins         ██████████░░░░░░░░░░░░░░░   40.56 % 
 C++          28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.77 % 
-Vue.js       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-HTML         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+SQL          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
