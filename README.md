@@ -9,7 +9,8 @@
 
 ### I'm Rahul Wasnik
 **I'm into ML,Data Science,Competitive Programming.**
--[Resume](##link##)
+
+**-[Resume](##link##)
 
 **Languages and Tools:**  
 
