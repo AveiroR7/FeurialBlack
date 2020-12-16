@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=feurialblack.feurialblack)
 
 ### I'm Rahul Wasnik
-### I'm into ML,Data Science,Competitive Programming.
+**I'm into ML,Data Science,Competitive Programming.**
 -[Resume](##link##)
 
 **Languages and Tools:**  
