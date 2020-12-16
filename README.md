@@ -23,17 +23,6 @@ Hi, I'm Rahul Wasnik
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C            37 mins         ██████████░░░░░░░░░░░░░░░   40.56 % 
-C++          28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.77 % 
-Python       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-SQL          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-<!--END_SECTION:waka-->
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=feurialblack&show_icons=true&theme=gotham" alt="feurialblack" />
