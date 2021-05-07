@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=feurialblack.feurialblack)
 
 ### I'm Rahul Wasnik
-**I'm into Machine Learning,BigData,Cloud Computing, Competitive Programming.**
+**I'm self taught Coder.**
 
 **Languages and Tools:**  
 
