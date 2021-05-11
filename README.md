@@ -8,7 +8,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=feurialblack.feurialblack)
 
 ### I'm Rahul Wasnik
-**I'm self taught Coder.**
 
 **Languages and Tools:**  
 
