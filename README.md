@@ -1,6 +1,4 @@
-<a href="https://discord.gg/ePtS3T89zK">
-<img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/Feurialblack/">
 <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
