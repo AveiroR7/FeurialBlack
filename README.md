@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/Feurialblack/">
+<a href="https://www.linkedin.com/in/feurialblack/">
 <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
